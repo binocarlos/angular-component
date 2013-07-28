@@ -1,0 +1,16 @@
+{
+  "name": "angular",
+  "description": "Asynchronously load the AngularJS library.",
+  "repo": "alexmingoia/angularjs",
+  "version": "1.0.0",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "component"
+  ],
+  "main": "loader.js",
+  "scripts": [
+    "loader.js"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "description": "Asynchronously load the AngularJS library.",
+  "version": "1.0.0",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "component"
+  ],
+  "main": "loader.js",
+  "license": "MIT"
+}
