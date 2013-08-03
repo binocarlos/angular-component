@@ -13,6 +13,6 @@ API
 Loads the AngularJS library asyncrhonously, executing the callback when the
 script has finished loading and `window.angular` is available.
 
-    require('angular')('1.0.7', function() {
+    require('angular')('1.0.7', {async: true}, function() {
       console.log(angular);
     });
